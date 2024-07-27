@@ -1,6 +1,7 @@
-# Morena Dlamini
+# Hi, I am Morena Dlamini
 
-## ![Profile Picture]([https://drive.google.com/uc?id=1tizcqV-C_7-Pjv-Rjifjrzf6U-Ym7QrD](https://images.unsplash.com/photo-1529429612779-c8e40ef2f36d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
+
+![Uploading Grad photo.JPG…]()
 
 ## Profile Summary
 
