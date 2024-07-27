@@ -32,12 +32,11 @@ Experienced lead software specialist with over a decade in the IT industry, curr
 
 ## Projects and Contributions
 
-### [Mining Software Solutions](https://github.com/morena-dlamini/mining-software-solutions)
+### [Under Construction](https://github.com/morena-dlamini) - This section is currently under construction. Please visit later for updates on notable projects and contributions.
 
 ## Contact Information
 
 - **Email:** [dlaminimorena@gmail.com](mailto:dlaminimorena@gmail.com)
-- **Phone:** +27 76 019 9006
 - **Location:** Johannesburg, GP, 1431
 
 ## Links to Other Profiles
