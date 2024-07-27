@@ -1,6 +1,6 @@
 # Hi, I am Morena Dlamini
 
-<img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" width="400" height="500" />
+<img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" width="300" height="300" />
 
 
 
