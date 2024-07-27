@@ -9,7 +9,7 @@ Experienced lead software specialist with over a decade in the IT industry, curr
 ## Pinned Repositories
 
 1. **[Bank Landing Page](https://github.com/MorenaDlamini/SDF_Portfolio_Piece_MORDLA616_PTO2405_ChadBosch_MORENADLAMINI_SDF11.git)** - Repository showcasing a Bank landing page using HTML5, CSS3, Tailwind CSS & Javascript.
-2. **[esponsive footer for a website]((https://github.com/MorenaDlamini/Module_9_StudentNo_Classcode_Group_Name-Surname_SDF09))** - Repository showcasing a website footer using HTML5 and Tailwind CSS
+2. **[footer for a website]((https://github.com/MorenaDlamini/Module_9_StudentNo_Classcode_Group_Name-Surname_SDF09))** - Repository showcasing a website footer using HTML5 and Tailwind CSS
 3. **[Cloud Automation Scripts](https://github.com/morena-dlamini/cloud-automation-scripts)** - Automation scripts for Azure and AWS, focusing on resource management and deployment efficiency.
 
 ## Contributions and Activity
