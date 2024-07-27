@@ -6,16 +6,13 @@
 
 Experienced lead software specialist with over a decade in the IT industry, currently driving technological excellence in the mining sector. Proficient in SQL, database administration, cloud monitoring, and project management. Known for technical troubleshooting, user training, and ensuring seamless software operation in challenging environments. Passionate about continuous learning and cloud technologies, with a focus on achieving Azure and AWS developer certifications.
 
-## Pinned Repositories
+## Pinned Repository
 
 1. **[Bank Landing Page](https://github.com/MorenaDlamini/SDF_Portfolio_Piece_MORDLA616_PTO2405_ChadBosch_MORENADLAMINI_SDF11.git)** - Repository showcasing a Bank landing page using HTML5, CSS3, Tailwind CSS & Javascript.
-2. **[Bank Landing Page]([https://github.com/MorenaDlamini/SDF_Portfolio_Piece_MORDLA616_PTO2405_ChadBosch_MORENADLAMINI_SDF11.git](https://github.com/MorenaDlamini/Module_9_StudentNo_Classcode_Group_Name-Surname_SDF09.git))** - Repository showcasing a Bank landing page using HTML5, CSS3 &Tailwind CSS
-
-3. **[Cloud Automation Scripts](https://github.com/morena-dlamini/cloud-automation-scripts)** - Automation scripts for Azure and AWS, focusing on resource management and deployment efficiency.
 
 ## Contributions and Activity
 
-- Regular contributions to [Open Mining Data](https://github.com/OpenMiningData), an open-source project aimed at improving data accessibility in the mining industry.
+- Regular contributions to [Open Mining Data]([https://github.com/OpenMiningData](https://github.com/MorenaDlamini/Module_9_StudentNo_Classcode_Group_Name-Surname_SDF09.git)), an open-source project aimed at improving data accessibility in the mining industry.
 - Active participation in the [Cloud DevOps Community](https://github.com/CloudDevOpsCommunity), contributing to discussions and sharing insights on best practices.
 
 ## Skills and Technologies
