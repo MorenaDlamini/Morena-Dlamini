@@ -1,6 +1,6 @@
 # Hi, I am Morena Dlamini
 
-![image](https://github.com/user-attachments/assets/6ec16b87-d1f1-4a01-b9bc-a671d6f03abe)
+<img src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif" width="400" height="500" />
 
 
 
