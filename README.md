@@ -1,6 +1,6 @@
 # Hi, I am Morena Dlamini
 
-![work](https://github.com/user-attachments/assets/03fac70a-1b10-44d4-a182-80c7e7ff39ed){:height="50%" width="50%"}
+<img src="https://github.com/MorenaDlamini/Morena-Dlamini/blob/main/path_to_image.jpg" alt="work" width="300" height="200">
 
 
 
