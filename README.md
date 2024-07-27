@@ -8,7 +8,7 @@ Experienced lead software specialist with over a decade in the IT industry, curr
 
 ## Pinned Repositories
 
-1. **[Mining Software Solutions](https://github.com/morena-dlamini/mining-software-solutions)** - Repository showcasing custom solutions for the mining industry, including data analysis tools and safety compliance systems.
+1. **[Bank Landing Page](https://github.com/MorenaDlamini/SDF_Portfolio_Piece_MORDLA616_PTO2405_ChadBosch_MORENADLAMINI_SDF11.git)** - Repository showcasing a Bank landing page using HTML5, CSS3, Tailwind CSS & Javascript.
 2. **[Full Stack Projects](https://github.com/morena-dlamini/full-stack-projects)** - A collection of full stack development projects demonstrating skills in React, Node.js, and database integration.
 3. **[Cloud Automation Scripts](https://github.com/morena-dlamini/cloud-automation-scripts)** - Automation scripts for Azure and AWS, focusing on resource management and deployment efficiency.
 
