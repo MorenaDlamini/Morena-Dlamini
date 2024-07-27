@@ -9,11 +9,13 @@ Experienced lead software specialist with over a decade in the IT industry, curr
 ## Pinned Repository
 
 1. **[Bank Landing Page](https://github.com/MorenaDlamini/SDF_Portfolio_Piece_MORDLA616_PTO2405_ChadBosch_MORENADLAMINI_SDF11.git)** - Repository showcasing a Bank landing page using HTML5, CSS3, Tailwind CSS & Javascript.
+2. **[Module 9 Project](https://github.com/MorenaDlamini/Module_9_StudentNo_Classcode_Group_Name-Surname_SDF09.git)** - Repository showcasing a Bank landing page using HTML5, CSS3, Tailwind CSS & Javascript
+3. **[Module 8 Project](https://github.com/MorenaDlamini/Module_8_MORDLA616_PTO2405_ChadBosch_MORENADLAMINI_SDF08)** - Building a Portfolio MVP page using HTML5, CSS3 & Javascript
 
 ## Contributions and Activity
 
-- Regular contributions to [Open Mining Data]([https://github.com/OpenMiningData](https://github.com/MorenaDlamini/Module_9_StudentNo_Classcode_Group_Name-Surname_SDF09.git)), an open-source project aimed at improving data accessibility in the mining industry.
-- Active participation in the [Cloud DevOps Community](https://github.com/CloudDevOpsCommunity), contributing to discussions and sharing insights on best practices.
+- **[Module 7 Project](https://github.com/MorenaDlamini/Module_7_StudentNo_Classcode_Group_Name-Surname_SDF07)** - CodeSpace Pets Instagram Profile
+- **[Module 5 Project](https://github.com/MorenaDlamini/Module_05_MORDLA616_PTO2405_ChadBosch_MORENADLAMINI_SDF05)** - BlackJack Game
 
 ## Skills and Technologies
 
