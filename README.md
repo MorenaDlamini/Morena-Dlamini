@@ -1,7 +1,7 @@
 # Hi, I am Morena Dlamini
 
+![work](https://github.com/user-attachments/assets/03fac70a-1b10-44d4-a182-80c7e7ff39ed)
 
-![Uploading Grad photo.JPG…]()
 
 ## Profile Summary
 
