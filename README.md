@@ -1,6 +1,5 @@
 # Hi, I am Morena Dlamini
 
-<img src="https://github.com/MorenaDlamini/Morena-Dlamini/blob/main/path_to_image.jpg" alt="work" width="300" height="200">
 
 
 
@@ -34,6 +33,8 @@ Experienced lead software specialist with over a decade in the IT industry, curr
 ## Projects and Contributions
 
 ### [Under Construction](https://github.com/morena-dlamini) - This section is currently under construction. Please visit later for updates on notable projects and contributions.
+
+### https://tenor.com/view/coding-gif-25183725
 
 ## Contact Information
 
