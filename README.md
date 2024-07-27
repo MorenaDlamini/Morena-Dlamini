@@ -1,6 +1,6 @@
 # Morena Dlamini
 
-## ![Profile Picture](https://via.placeholder.com/150) <!-- Replace with actual image URL -->
+## ![Profile Picture](https://drive.google.com/file/d/1tizcqV-C_7-Pjv-Rjifjrzf6U-Ym7QrD/view?usp=drive_link) <!-- Replace with actual image URL -->
 
 ## Profile Summary
 
@@ -32,11 +32,6 @@ Experienced lead software specialist with over a decade in the IT industry, curr
 ## Projects and Contributions
 
 ### [Mining Software Solutions](https://github.com/morena-dlamini/mining-software-solutions)
-Developed and maintained software solutions tailored for the mining industry, focusing on safety, compliance, and efficiency.
-
-### [Cloud Automation Scripts](https://github.com/morena-dlamini/cloud-automation-scripts)
-Created scripts for automating cloud resource management, optimizing deployments on both Azure and AWS platforms.
-
 ## Customized Profile
 
 To add a personal touch and showcase attention to detail, this GitHub profile includes a custom README highlighting professional achievements, skills, and ongoing projects. This profile reflects a commitment to continuous learning and active contribution to the tech community.
